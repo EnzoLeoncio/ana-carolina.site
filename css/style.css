@@ -92,7 +92,7 @@ p {
 .rader-body {
 	display: flex;
 	flex-direction: column;
-	padding: 20px 30px;
+	padding: 200px 300px;
 }
 
 .title {
